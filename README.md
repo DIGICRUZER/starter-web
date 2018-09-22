@@ -27,4 +27,4 @@ Please fork tthis repository
 
 ### Copyright
 
-2018 Git.Training.
+2018 Git.Training. All Rights Reserved.
